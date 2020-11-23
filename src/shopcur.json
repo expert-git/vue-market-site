@@ -1,0 +1,53 @@
+[
+	{"shop": "lazada.co.id", "cur": "IDR"},
+	{"shop": "shopee.co.id", "cur": "IDR"},
+	{"shop": "jd.id", "cur": "IDR"},
+	{"shop": "tokopedia.com", "cur": "IDR"},
+	{"shop": "tokopedia", "cur": "IDR"},
+	{"shop": "bukalapak.com", "cur": "IDR"},
+	{"shop": "watson.co.id", "cur": "IDR"},
+	{"shop": "sociolla", "cur": "IDR"},
+	{"shop": "sephora.co.id", "cur": "IDR"},
+	{"shop": "hijup.com", "cur": "IDR"},
+	{"shop": "benscrub.com", "cur": "IDR"},
+
+	{"shop": "lazada.co.th", "cur": "THB"},
+	{"shop": "shopee.co.th", "cur": "THB"},
+	{"shop": "jd.co.th", "cur": "THB"},
+	{"shop": "bigc.co.th", "cur": "THB"},
+	{"shop": "bigc", "cur": "THB"},
+	{"shop": "top.co.th", "cur": "THB"},
+	{"shop": "tops.co.th", "cur": "THB"},
+	{"shop": "watson.co.th", "cur": "THB"},
+	{"shop": "konvy.com", "cur": "THB"},
+	{"shop": "sephora.co.th", "cur": "THB"},
+	{"shop": "thebeautrium.com", "cur": "THB"},
+
+	{"shop": "lazada.com.ph", "cur": "PHP"},
+	{"shop": "shopee.ph", "cur": "PHP"},
+	{"shop": "beautymnl.com", "cur": "PHP"},
+	{"shop": "sephora.ph", "cur": "PHP"},
+
+	{"shop": "lazada.com.my", "cur": "MYR"},
+	{"shop": "shopee.com.my", "cur": "MYR"},
+	{"shop": "hermo.my", "cur": "MYR"},
+
+	{"shop": "baganmart", "cur": "MMK"},
+	{"shop": "shop.com.mm", "cur": "MMK"},
+	{"shop": "yangonbay.com", "cur": "MMK"},
+
+	{"shop": "delishop.asia", "cur": "KHR"},
+	{"shop": "aeononlineshopping.com", "cur": "KHR"},
+	{"shop": "larue.com.kh", "cur": "KHR"},
+	{"shop": "larue", "cur": "KHR"},
+	{"shop": "epasarcambodia.com", "cur": "KHR"},
+
+	{"shop": "bestbuy.com.la", "cur": "LAK"},
+	{"shop": "shopping-d.com", "cur": "LAK"},
+
+	{"shop": "lazada.vn", "cur": "VND"},
+	{"shop": "sephoravietnam.com", "cur": "VND"},
+
+	{"shop": "lazada.sg", "cur": "SGD"},
+	{"shop": "sephora.sg", "cur": "SGD"}
+]

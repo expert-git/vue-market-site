@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px"
+     height="15px"
+     viewBox="0 0 12 15"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>91AB067B-569F-44D3-8324-9F814F29F73F</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-opacity="0.8">
+        <g id="Result-Listing-Summary"
+           transform="translate(-811.000000, -230.000000)"
+           stroke="#000000"
+           stroke-width="2">
+            <g id="Group-5" transform="translate(790.000000, 212.000000)">
+                <g id="Group-13-Copy">
+                    <g id="Group-19" transform="translate(15.000000, 13.000000)">
+                        <g id="Group-18">
+                            <g id="bar-chart"
+                               transform="translate(12.000000, 12.500000) scale(-1, 1) translate(-12.000000, -12.500000) translate(7.000000, 6.000000)">
+                                <path d="M5,12.3076923 L5,4.61538462" id="Path"></path>
+                                <path d="M9.61538462,12.3076923 L9.61538462,0" id="Path"></path>
+                                <path d="M0.384615385,12.3076923 L0.384615385,9.23076923" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

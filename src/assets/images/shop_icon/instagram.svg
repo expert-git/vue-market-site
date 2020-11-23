@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     style="isolation:isolate"
+     viewBox="591.607 24.967 80 80"
+     width="80pt"
+     height="80pt">
+    <g>
+        <circle vector-effect="non-scaling-stroke"
+                cx="631.6067878787878"
+                cy="64.96709611742423"
+                r="40"
+                fill="rgb(249,235,242)"/>
+        <linearGradient id="_lgradient_0"
+                        x1="0"
+                        y1="0.5"
+                        x2="0.7071013713456342"
+                        y2="-0.20711219098607214"
+                        gradientTransform="matrix(40,0,0,40,611.607,44.967)"
+                        gradientUnits="userSpaceOnUse">
+            <stop offset="9.153437499999999%" stop-opacity="1" style="stop-color:rgb(255,193,7)"/>
+            <stop offset="50.57185187500001%" stop-opacity="1" style="stop-color:rgb(244,67,54)"/>
+            <stop offset="90.02963125000001%" stop-opacity="1" style="stop-color:rgb(156,39,176)"/>
+        </linearGradient>
+        <path d=" M 639.107 44.967 L 624.107 44.967 C 617.204 44.967 611.607 50.565 611.607 57.467 L 611.607 72.467 C 611.607 79.37 617.204 84.967 624.107 84.967 L 639.107 84.967 C 646.009 84.967 651.607 79.37 651.607 72.467 L 651.607 57.467 C 651.607 50.565 646.009 44.967 639.107 44.967 Z  M 647.857 72.467 C 647.857 77.292 643.932 81.217 639.107 81.217 L 624.107 81.217 C 619.282 81.217 615.357 77.292 615.357 72.467 L 615.357 57.467 C 615.357 52.642 619.282 48.717 624.107 48.717 L 639.107 48.717 C 643.932 48.717 647.857 52.642 647.857 57.467 L 647.857 72.467 Z "
+              fill="url(#_lgradient_0)"/>
+        <linearGradient id="_lgradient_1"
+                        x1="0"
+                        y1="0.5"
+                        x2="0.7071067811865476"
+                        y2="-0.20710678118654746"
+                        gradientTransform="matrix(20,0,0,20,621.607,54.967)"
+                        gradientUnits="userSpaceOnUse">
+            <stop offset="14.645624999999995%" stop-opacity="1" style="stop-color:rgb(255,193,7)"/>
+            <stop offset="50.49496125000002%" stop-opacity="1" style="stop-color:rgb(244,67,54)"/>
+            <stop offset="84.64728750000002%" stop-opacity="1" style="stop-color:rgb(156,39,176)"/>
+        </linearGradient>
+        <path d=" M 631.607 54.967 C 626.084 54.967 621.607 59.445 621.607 64.967 C 621.607 70.49 626.084 74.967 631.607 74.967 C 637.129 74.967 641.607 70.49 641.607 64.967 C 641.607 59.445 637.129 54.967 631.607 54.967 Z  M 631.607 71.217 C 628.162 71.217 625.357 68.412 625.357 64.967 C 625.357 61.52 628.162 58.717 631.607 58.717 C 635.052 58.717 637.857 61.52 637.857 64.967 C 637.857 68.412 635.052 71.217 631.607 71.217 Z "
+              fill="url(#_lgradient_1)"/>
+        <linearGradient id="_lgradient_2"
+                        x1="0"
+                        y1="0.5"
+                        x2="0.7070598740236891"
+                        y2="-0.20715368523794386"
+                        gradientTransform="matrix(2.665,0,0,2.665,641.024,52.885)"
+                        gradientUnits="userSpaceOnUse">
+            <stop offset="14.641181688864515%" stop-opacity="1" style="stop-color:rgb(255,193,7)"/>
+            <stop offset="50.492645108064494%" stop-opacity="1" style="stop-color:rgb(244,67,54)"/>
+            <stop offset="84.64699783286449%" stop-opacity="1" style="stop-color:rgb(156,39,176)"/>
+        </linearGradient>
+        <circle vector-effect="non-scaling-stroke"
+                cx="642.3567878787878"
+                cy="54.217096117424205"
+                r="1.3324999999999818"
+                fill="url(#_lgradient_2)"/>
+    </g>
+</svg>

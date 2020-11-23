@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px"
+     height="19px"
+     viewBox="0 0 16 19"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>C5E41A66-F43C-48A5-A2EC-72CA21B8ED70</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd"
+       stroke-linecap="round"
+       stroke-linejoin="round">
+        <g id="Result-Listing-Summary"
+           transform="translate(-950.000000, -227.000000)"
+           stroke="#000000"
+           stroke-width="1.5">
+            <g id="Group-5" transform="translate(790.000000, 212.000000)">
+                <g id="Group-13" transform="translate(140.000000, 0.000000)">
+                    <g id="Group-12" transform="translate(16.000000, 13.000000)">
+                        <g id="map-pin" transform="translate(5.000000, 3.000000)">
+                            <path d="M14,7.0000001 C14,12.4444444 7,17.1111111 7,17.1111111 C7,17.1111111 0,12.4444444 0,7.0000001 C0,3.13400679 3.13400679,1.04308128e-07 7,1.04308128e-07 C10.8659932,1.04308128e-07 14,3.13400679 14,7.0000001 L14,7.0000001 Z"
+                                  id="Path"></path>
+                            <circle id="Oval" cx="7" cy="7" r="2.33333333"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

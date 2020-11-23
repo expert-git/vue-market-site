@@ -1,0 +1,30 @@
+{
+	"defaultSeverity": "warning",
+	"extends": [
+		"tslint-eslint-rules"
+	],
+	"linterOptions": {
+		"exclude": [
+			"node_modules/**",
+			"**/*.js"
+		]
+	},
+	"rules": {
+		"arrow-parens": false,
+		"ter-indent": [
+			false,
+			"tab"
+		],
+		"interface-name": false,
+		"ordered-imports": false,
+		"object-literal-sort-keys": false,
+		"no-consecutive-blank-lines": false,
+		"no-console": false,
+		"no-var-requires": false,
+		"trailing-comma": false,
+		"semicolon": false,
+		"eofline": false,
+		"no-trailing-whitespace": false,
+		"no-constant-condition": true
+	}
+}
